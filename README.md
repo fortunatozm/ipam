@@ -20,3 +20,4 @@ Obrigatório usar os três conceitos centrais do redux: store, reducers e action
 - Para o funcionamento é necessário rodar o npm install para incluir o node_modules (foi retirado pelo autor ao subir o repositório por ser muito pesado);
 - Para a visualização foi incluído um mapa com pigeon-maps;
 - O marcador aponta o município selecionado.
+- As coordenadas dos municípios são obtidas através da API: https://servicodados.ibge.gov.br/api/v3/malhas/municipios/${idMunicipio}/metadados , também do IBGE.
