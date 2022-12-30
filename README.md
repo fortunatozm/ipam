@@ -3,7 +3,7 @@ Criar um SPA com React + Redux utilizando API do IBGE
 
 Prazo: Entregar até 23h59min do dia 06/01/2023
 
-###Desafio:
+### Desafio:
 
 API: https://servicodados.ibge.gov.br/api/docs/localidades
 
