@@ -1,0 +1,11 @@
+#municipio {
+  width: 30%;
+  display: block;
+  position: absolute;
+  top: 30%;
+}
+
+.classMunicipio {
+  color: white;
+  right: 69.5%;
+}

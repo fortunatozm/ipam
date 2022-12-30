@@ -1,0 +1,12 @@
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/
+
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/municipios.
+
+https://servicodados.ibge.gov.br/api/v1/localidades/municipios/{municipios}/distritos
+
+https://pigeon-maps.js.org/docs/installation/
+
+
+<!-- GeolocationCoordinates -->
+<!-- https://pigeon-maps.js.org/docs/installation -->
+<!-- https://mapa.daer.rs.gov.br/i3geo/interface/ol.htm -->

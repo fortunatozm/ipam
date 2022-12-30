@@ -1,0 +1,11 @@
+#distrito{
+  width: 30%;
+  display: block;
+  position: absolute;
+  top: 35%;
+}
+
+.classDistrito {
+  color: white;
+  margin-top: 3%;
+}
